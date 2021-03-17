@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BreakingBad</string>
+    <string name="character_image">Character Image</string>
+    <string name="occupation">Occupation:</string>
+    <string name="name">Name:</string>
+    <string name="season_appearance">Season Appearance:</string>
+    <string name="nickname">Nickname:</string>
+    <string name="tv_nickname">Nickname</string>
+    <string name="tv_status">Status</string>
+    <string name="status">Status:</string>
+    <string name="tv_season_appearance">Season Appearance</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_occupation">Occupation</string>
+</resources>
